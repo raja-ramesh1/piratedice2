@@ -1,0 +1,1 @@
+web: python pirate_dice.py
